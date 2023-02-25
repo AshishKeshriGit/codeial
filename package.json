@@ -1,0 +1,19 @@
+{
+  "name": "codeial",
+  "version": "1.0.0",
+  "description": "A social media web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshishKeshriGit/codeial.git"
+  },
+  "author": "Ashish Keshri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshishKeshriGit/codeial/issues"
+  },
+  "homepage": "https://github.com/AshishKeshriGit/codeial#readme"
+}
